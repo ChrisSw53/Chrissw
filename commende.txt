@@ -1,0 +1,12 @@
+1. Cmd du fichier 
+2. pip install -r requirements.txt
+3. python main.py
+4. Vous entrez votre token de votre compte
+5. Entrez un préfixe pour la commande que vous allez faire pour copier le serveur. (EX: !)
+6. Allez sur le serveur que vous voulez copier 
+7. Et vous rentrez dans le chat la commande  ( !copyserveur )
+
+et voilà comme par magie 
+
+@création de ce petit selfbot Chris;#0149
+
